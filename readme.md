@@ -1,0 +1,1 @@
+Wraps alcritty zsh completions
